@@ -39,7 +39,7 @@ def multiComponentAvailability():
   for x in compList:
     total *= x
 
-  print (total*100)
+  print(total*100)
 
 
 #start
